@@ -1,0 +1,1 @@
+https://courses.cs.washington.edu/courses/cse142/17wi/lectures/01-11/slides/04-nested-loops-constants.pdf
